@@ -3,7 +3,6 @@ using UnityEditor;
 using UnityEngine;
 using System;
 using System.Collections.Generic;
-using static UnityEditor.Progress;
 
 public class MenuShortcutOperation : EditorCommonUtility
 {
